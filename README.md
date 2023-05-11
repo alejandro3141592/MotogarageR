@@ -1,6 +1,8 @@
 # MotogarageR
 En este proyecto se realizó el diseño de un garage para motociletas, imlementando al mismo tiemo varios sensores y actuadores para una mejor experiencia de usuario.
 
+![Motogarage](https://github.com/alejandro3141592/MotogarageR/blob/main/Motogarage.png)
+
 ## Mi papel en el proyecto
 
 Durante este proyecto, considero que mis principales contribuciones al mismo, fueron las siguientes.
